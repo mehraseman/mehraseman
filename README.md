@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehraseman
 - 👀 I’m interested in AR, VR, Mixed Realities.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently making virtual enviroments for several workshops in Berlin.
 - 💞️ I’m looking to collaborate on several projects in the field of Virtual Reality, Mozilla-Hubs, and 3D sound design.
 - 📫 How to reach me on Instagram @mehraseman or send me email mehraseman.majd@hotmail.com
 <!---
